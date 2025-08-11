@@ -1,0 +1,10 @@
+## FAQ
+
+Q: How can I reset my password?
+A: Go to the login page, click "Forgot Password", and follow the instructions sent to your email.
+
+Q: What browsers do you support?
+A: We support Chrome, Firefox, Edge, and Safari (latest two versions).
+
+Q: How do I contact customer support?
+A: Email support@fictionalstartup.com or use the Support portal at https://support.fictionalstartup.com.
