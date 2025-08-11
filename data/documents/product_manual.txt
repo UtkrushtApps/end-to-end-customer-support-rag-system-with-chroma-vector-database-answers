@@ -1,0 +1,15 @@
+# Product Manual
+
+## Getting Started
+- Download the installer from our website.
+- Run the installer and follow on-screen instructions.
+- Once installed, open the application and sign in with your account.
+
+## Features
+- Real-time collaboration
+- Automatic cloud backup
+- Customizable notifications
+
+## Updating the Product
+- To update, go to Help > Check for Updates in the app menu.
+- Follow prompts to install the latest version.
