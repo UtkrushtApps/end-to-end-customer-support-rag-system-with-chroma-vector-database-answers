@@ -1,0 +1,12 @@
+# Troubleshooting Guide
+
+## Issue: Cannot log in
+- Ensure your internet connection is stable.
+- Confirm your username and password are correct.
+- If you forgot your password, see FAQ section.
+- If problems persist, contact support.
+
+## Issue: Page not loading correctly
+- Try refreshing your browser.
+- Clear your browser cache and cookies.
+- Attempt to access using a different supported browser.
